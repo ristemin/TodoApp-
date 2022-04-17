@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-iko2$2a@n0mi+0(w$@ay))diz=h#+o57&1*(h0^wc6po47_^@l
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://todoapp12345678910.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['https://crmlajv-cli.herokuapp.com/', '127.0.0.1']
 
 
 # Application definition
